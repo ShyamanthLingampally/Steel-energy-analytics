@@ -1,0 +1,4 @@
+Load_Type,intervals,avg_kwh,total_kwh,pct_time,pct_energy,cost_usd
+Light Load,18072,8.6,155892.8,51.6,16.2,15589.0
+Maximum Load,7272,59.3,430977.4,20.8,44.9,43098.0
+Medium Load,9696,38.4,372766.5,27.7,38.8,37277.0

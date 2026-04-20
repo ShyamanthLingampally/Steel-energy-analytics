@@ -1,0 +1,35 @@
+{
+  "footprint": {
+    "total_kwh": 959637.0,
+    "estimated_cost_usd": 95964.0,
+    "total_co2_tons": 403.8
+  },
+  "peak": {
+    "peak_hour": 9,
+    "peak_avg_kwh": 58.6,
+    "off_peak_avg_kwh": 4.2,
+    "peak_multiple": 14.0
+  },
+  "weekend": {
+    "weekend_avg_kwh": 11.7,
+    "weekday_avg_kwh": 33.6,
+    "weekend_as_pct_of_weekday": 34.9,
+    "weekend_annual_cost_usd": 11714.0
+  },
+  "load_distribution": {
+    "max_load_pct_time": 20.8,
+    "max_load_pct_energy": 44.9
+  },
+  "power_factor": {
+    "avg_lagging_pct": 80.6,
+    "pct_intervals_below_90": 54.8
+  },
+  "seasonal": {
+    "lowest_month": "Sep",
+    "highest_month": "Jan"
+  },
+  "savings_opportunity": {
+    "current_demand_charges_usd": 28789.0,
+    "potential_savings_usd": 4318.0
+  }
+}
